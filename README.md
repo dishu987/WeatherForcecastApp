@@ -6,4 +6,4 @@
 
 ## This is Web based application made in HTML,CSS,JS
 
-## Click here :  https://dishu987.github.io/WeatherForecastApplication/
+## Click here :  https://dishu987.github.io/WeatherForcecastApp/
